@@ -7,7 +7,7 @@
 - Building **clean, efficient, high-performance Java applications**  
 - Passionate about **backend systems & modular frameworks**  
 - Data-driven solutions & analytics enthusiast  
-- Frontend (Vue.js / JS) is a hobby  
+- Frontend (JS) is a hobby  
 
 </details>
 
