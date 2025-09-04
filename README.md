@@ -7,7 +7,7 @@
 - Building **clean, efficient, high-performance Java applications**  
 - Passionate about **backend systems & modular frameworks**  
 - Data-driven solutions & analytics enthusiast  
-- Frontend (JS) is a hobby  
+- Frontend (JavaScript) is a hobby  
 
 </details>
 
@@ -24,7 +24,7 @@
 **Languages:** Java | SQL | JavaScript (hobby)  
 **Frameworks:** Spring Boot | Maven | MyBatis  
 **Databases:** MySQL | Redis  
-**Tools & DevOps:** Git | Docker | IntelliJ IDEA 
+**Tools & DevOps:** Git | Docker | IntelliJ IDEA | Visual Studio Code
 
 </details>
 
