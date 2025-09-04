@@ -4,7 +4,7 @@
 
 <details>
 <summary>🌌 About Me 💻 </summary>
-
+  
 - Building **clean, efficient, high-performance Java applications**  
 - Passionate about **backend systems & modular frameworks**  
 - Data-driven solutions & analytics enthusiast  
@@ -23,7 +23,7 @@
 
 <details>
 <summary>⚡ Tech Stack 🛠️ </summary>
-  
+
 - **Languages:** Java | SQL | JavaScript (hobby)  
 - **Frameworks:** Spring Boot | Maven | MyBatis  
 - **Databases:** MySQL | Redis  
@@ -33,7 +33,8 @@
 
 <details>
 <summary>📊 GitHub Stats 📈 </summary>
-
+<br>
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allurx&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allurx&layout=compact&theme=radical)
 
