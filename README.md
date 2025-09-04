@@ -1,24 +1,32 @@
 # 👋 Hi, I'm Allurx
 **Java Developer | Backend & Data Enthusiast**
 
-## 🌌 About Me
+<details>
+  <summary>🌌 About Me (click to expand)</summary>
+
 - Building **clean, efficient, high-performance Java applications**  
 - Passionate about **backend systems & modular frameworks**  
 - Data-driven solutions & analytics enthusiast  
 - Frontend (Vue.js / JS) is a hobby  
 
-## 💼 Career Status
-**🚀 Actively seeking Java Backend Developer roles**
+</details>
+
+## 💼 Actively Looking for Opportunities
+**🚀 Seeking Java Backend Developer roles**
 
 ## 🔗 Contact & Portfolio
 - 📧 Email: allurx.zyc@gmail.com
 - 🌐 Portfolio: [https://allurx.io](https://allurx.io)
 
-## ⚡ Tech Stack
+<details>
+  <summary>⚡ Tech Stack (click to expand)</summary>
+
 **Languages:** Java | SQL | JavaScript (hobby)  
 **Frameworks:** Spring Boot | Maven | MyBatis  
 **Databases:** MySQL | Redis  
 **Tools & DevOps:** Git | Docker | IntelliJ IDEA  
+
+</details>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allurx&show_icons=true&theme=radical)  
