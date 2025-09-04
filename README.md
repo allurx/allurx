@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Allurx
+**Java Developer | Backend & Data Enthusiast**
 
-<!--
-**allurx/allurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌌 About Me
+- Building **clean, efficient, high-performance Java applications**  
+- Passionate about **backend systems & modular frameworks**  
+- Data-driven solutions & analytics enthusiast  
+- Frontend (Vue.js / JS) is a hobby  
 
-Here are some ideas to get you started:
+## 💼 Career Status
+**🚀 Actively seeking Java Backend Developer roles**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contact & Portfolio
+- 📧 Email: allurx.zyc@gmail.com
+- 🌐 Portfolio: [https://allurx.io](https://allurx.io)
+
+## ⚡ Tech Stack
+**Languages:** Java | SQL | JavaScript (hobby)  
+**Frameworks:** Spring Boot | Maven | MyBatis  
+**Databases:** MySQL | Redis  
+**Tools & DevOps:** Git | Docker | IntelliJ IDEA  
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allurx&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allurx&layout=compact&theme=radical)
+
+**🔍 Explore my repositories and reach out if you want to discuss Java projects or job opportunities!**
